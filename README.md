@@ -11,7 +11,7 @@ A Machine Learning project that detects fraudulent credit card transactions usin
 
 ## Dashboard Preview
 
-![Dashboard](screenshot-pro.png)
+![Dashboard](Screnshots-Pro.png)
 
 ## Technologies
 
