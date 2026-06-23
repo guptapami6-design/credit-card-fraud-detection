@@ -9,6 +9,10 @@ A Machine Learning project that detects fraudulent credit card transactions usin
 * CSV file upload support
 * Real-time prediction
 
+## Dashboard Preview
+
+![Dashboard](c:\Users\User\Pictures\Screenshots\Screnshots-Pro)
+
 ## Technologies
 
 * Python
