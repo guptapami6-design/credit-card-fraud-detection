@@ -24,6 +24,10 @@ A Machine Learning project that detects fraudulent credit card transactions usin
 * Scikit-learn
 * Streamlit
 
+## Live Demo
+
+https://credit-card-fraud-detection-yru4me5dvbl8pgaqlmcs6n.streamlit.app/
+
 ## Run Locally
 
 ```bash
